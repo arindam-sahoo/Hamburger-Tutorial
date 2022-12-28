@@ -25,8 +25,8 @@ The JavaScript file contains the logic for controlling the behavior of the hambu
 
 ## Screenshots
 <img src="./ss/Desktop_Menu.png" style="width='50vw'; drop-shadow: 2px 2px 4px;">
-<img src="">
-<img src="">
+<img src="./ss/Mobile_Menu.png" style="width='20vw'; drop-shadow: 2px 2px 4px;">
+<img src="./ss/Hamburger_Menu.png" style="width='20vw'; drop-shadow: 2px 2px 4px;">
 
 ## Deployment
 To deploy the hamburger menu to a live website, you will need to copy the files from the src directory to the root directory of your website. Make sure to include both the HTML, CSS, and JavaScript files, as well as any image files that are used in the menu.
