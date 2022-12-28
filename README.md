@@ -23,5 +23,10 @@ The CSS file controls the appearance of the hamburger menu, including the colors
 - #### JavaScript
 The JavaScript file contains the logic for controlling the behavior of the hamburger menu. This includes toggling the dropdown menu when the menu button is clicked and closing the menu when a navigation link is clicked.
 
+## Screenshots
+<img src="./ss/Desktop_Menu.png" style="width='50vw'; drop-shadow: 2px 2px 4px;">
+<img src="">
+<img src="">
+
 ## Deployment
 To deploy the hamburger menu to a live website, you will need to copy the files from the src directory to the root directory of your website. Make sure to include both the HTML, CSS, and JavaScript files, as well as any image files that are used in the menu.
